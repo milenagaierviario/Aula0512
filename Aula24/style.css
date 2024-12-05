@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(241, 151, 151, 0.628);
+    color: snow;
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    color: rgb(126, 27, 27);
+    font-size: 60px;
+}
+
+button {
+    background-color: rgba(165, 42, 42, 0.33);
+    font-size: 30px;
+    font-family:monospace ;
+}
+
